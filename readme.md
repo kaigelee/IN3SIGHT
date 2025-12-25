@@ -2,6 +2,10 @@
 
 This repository contains the official implementation of **IN3SIGHT**, a cognitive forensic reasoning framework for detecting out-of-context (OOC) image–text misinformation. The framework decomposes the detection process into three principled stages: **Inspection**, **Investigation**, and **Introspection**, without requiring model fine-tuning.
 
+Kaige Li, Xiaochun Cao*, IEEE Senior Member
+
+*Corresponding author: [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en).
+
 ---
 
 ## 1. Environment Setup
@@ -54,4 +58,5 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 ## 3. Method Overview
 
 Pending
+
 
