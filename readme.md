@@ -19,18 +19,21 @@ pip install flash_attn-2.7.4.post1+cu12torch2.4cxx11abiFALSE-cp310-cp310-linux_x
 All experiments reported in the paper were conducted on a single NVIDIA A100 GPU.
 
 
+## 2. Repository Structure
+
+```text
 .
 ├── inspection_reasoning.py        # Inspection stage: intrinsic judgment
-├── investigation_reasoning.py     # Investigation stage: external evidence auditing
+├── investigation_reasoning.py     # Investigation stage: external evidence audit
 ├── introspection_reasoning.py     # Introspection stage: evidence-aware reconciliation
 │
-├── eval/                          # Evaluation utilities
-│   ├── eval.py                    # After Inspection
-│   ├── eval_final.py              # After Investigation
-│   └── eval_joint.py              # After Introspection
+├── eval/                           # Evaluation utilities
+│   ├── eval.py                    # Results after Inspection
+│   ├── eval_final.py              # Results after Investigation
+│   └── eval_joint.py              # Results after Introspection
 │
 ├── datasets/                      # Datasets and evidence resources
-│   ├── output_*                   # NewsCLIPpings formatted datasets
+│   ├── output_*                   # NewsClippings formatted datasets
 │   ├── test_external_info_llama_final.json
 │   └── *.py                       # Evidence retrieval / translation scripts
 │
