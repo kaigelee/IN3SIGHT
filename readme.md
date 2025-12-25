@@ -43,11 +43,12 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 │   └── *.py                       # Evidence filtering & relevance verification
 │
 ├── utils/ # Unified LLM / MLLM utility modules
-│ ├── init.py
-│ ├── llama_utils.py # Llama-based LLM inference utilities
-│ ├── llama_utils_batch.py # Batched inference and acceleration for Llama models
-│ ├── Qwen_utils.py # Qwen-VL MLLM inference utilities
-│ └── Qwen_instruct_util.py # Instruction-format wrappers for Qwen-VL models
+│   ├── init.py
+│   ├── llama_utils.py # Llama-based LLM inference utilities
+│   ├── llama_utils_batch.py # Batched inference and acceleration for Llama models
+│   ├── Qwen_utils.py # Qwen-VL MLLM inference utilities
+│   └── Qwen_instruct_util.py # Instruction-format wrappers for Qwen-VL models
 │
 └── output/                        # Generated intermediate and final results
+
 
