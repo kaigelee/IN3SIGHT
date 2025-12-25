@@ -51,4 +51,7 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 │
 └── output/                        # Generated intermediate and final results
 
+## 3. Method Overview
+
+Pending
 
