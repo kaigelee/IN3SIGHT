@@ -79,3 +79,11 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 
 
 
+## Reproducibility Notes
+
+- No model parameters are updated at any stage.
+- All performance gains arise from structured inference-time reasoning.
+- Prompt optimization is lightweight and robust to initialization.
+- The framework is model-agnostic and transferable to other MLLMs.
+
+
