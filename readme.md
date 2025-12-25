@@ -54,10 +54,13 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 │   └── Qwen_instruct_util.py # Instruction-format wrappers for Qwen-VL models
 │
 └── output/                        # Generated intermediate and final results
+```
+
 
 ## 3. Method Overview
 
 🔥 Pending
+
 
 
 
