@@ -63,4 +63,18 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 
 
 
+## 4. Datasets
+
+- **NewsCLIPpings**  
+  Used for prompt calibration and primary evaluation.
+
+- **VERITE**  
+  Used for cross-dataset generalization evaluation.
+
+The file:
+
+```bash
+datasets/test_external_info_llama_final.json
+
+
 
