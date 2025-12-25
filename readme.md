@@ -1,4 +1,4 @@
-# IN3SIGHT: Toward Cognitive Forensic Reasoning for OOC Misinformation Detection
+# 🦉 IN³SIGHT: Toward Cognitive Forensic Reasoning for OOC Misinformation Detection
 
 This repository contains the official implementation of **IN3SIGHT**, a cognitive forensic reasoning framework for detecting out-of-context (OOC) image–text misinformation. The framework decomposes the detection process into three principled stages: **Inspection**, **Investigation**, and **Introspection**, without requiring model fine-tuning.
 
@@ -85,6 +85,7 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 - All performance gains arise from structured cognitive reasoning.
 - Prompt optimization is lightweight and robust to initialization.
 - The framework is model-agnostic and transferable to other MLLMs.
+
 
 
 
