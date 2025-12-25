@@ -57,6 +57,7 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 
 ## 3. Method Overview
 
-Pending
+🔥 Pending
+
 
 
