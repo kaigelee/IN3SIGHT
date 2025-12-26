@@ -34,7 +34,7 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 │
 ├── eval/                           # Evaluation utilities
 │   ├── eval.py                    # Results after Inspection
-│   ├── eval_final.py              # Results after Investigation
+│   ├── eval_middle.py              # Results after Investigation
 │   └── eval_joint.py              # Results after Introspection
 │
 ├── datasets/                      # Datasets and evidence resources
@@ -95,6 +95,7 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 This code is associated with a paper currently under review. To comply with the review process, the code will be made FULLY available once the paper is accepted.  :smiley:
 
 We appreciate your understanding and patience. Once the code is released, we will warmly welcome any feedback and suggestions. Please stay tuned for our updates!
+
 
 
 
