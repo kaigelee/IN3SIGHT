@@ -68,7 +68,7 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 - **[NewsCLIPpings](https://github.com/g-luo/news_clippings)**  
   Used for prompt calibration and primary evaluation.
 
-- **VERITE**  
+- **[VERITE](https://github.com/stevejpapad/image-text-verification)**  
   Used for cross-dataset generalization evaluation.
 
 The file:
@@ -94,6 +94,7 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 This code is associated with a paper currently under review. To comply with the review process, the code will be made FULLY available once the paper is accepted.  :smiley:
 
 We appreciate your understanding and patience. Once the code is released, we will warmly welcome any feedback and suggestions. Please stay tuned for our updates!
+
 
 
 
