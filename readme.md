@@ -2,10 +2,14 @@
 
 
 
+| <img src="In3sight.png.png" width="300" /> |   This repository contains the official implementation of **IN3SIGHT**, a cognitive forensic reasoning framework for detecting out-of-context (OOC) image–text misinformation. The framework decomposes the detection process into three principled stages: **Inspection**, **Investigation**, and **Introspection**, without requiring model fine-tuning.
+ |
+| --- | --- |
+
+
 <div style="display: flex; align-items: flex-start;">
   <img src="In3sight.png" width="300" style="margin-right: 16px;" />
   <div>
-  This repository contains the official implementation of **IN3SIGHT**, a cognitive forensic reasoning framework for detecting out-of-context (OOC) image–text misinformation. The framework decomposes the detection process into three principled stages: **Inspection**, **Investigation**, and **Introspection**, without requiring model fine-tuning.
   </div>
 </div>
 
@@ -103,6 +107,7 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 This code is associated with a paper currently under review. To comply with the review process, the code will be made FULLY available once the paper is accepted.  :smiley:
 
 We appreciate your understanding and patience. Once the code is released, we will warmly welcome any feedback and suggestions. Please stay tuned for our updates!
+
 
 
 
