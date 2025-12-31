@@ -1,27 +1,7 @@
 ##  <img src="logo.png" width="50" height="50"> IN³SIGHT: Toward Cognitive Forensic Reasoning for OOC Misinformation Detection
 
 
-
-| <img src="In3sight.png.png" width="300" /> |   This repository contains the official implementation of **IN3SIGHT**, a cognitive forensic reasoning framework for detecting out-of-context (OOC) image–text misinformation. The framework decomposes the detection process into three principled stages: **Inspection**, **Investigation**, and **Introspection**, without requiring model fine-tuning.
- |
-| --- | --- |
-
-
-| <img src="./images/logo.png" width="120" /> | **项目名称**  
-这是项目的一句话介绍。  
-- 支持多行文字  
-- 支持列表  
-- 支持 **Markdown 加粗**、`代码` |
-| --- | --- |
-
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="In3sight.png" width="300" style="margin-right: 16px;" />
-  <div>
-  </div>
-</div>
-
-
+This repository contains the official implementation of **IN3SIGHT**, a cognitive forensic reasoning framework for detecting out-of-context (OOC) image–text misinformation. The framework decomposes the detection process into three principled stages: **Inspection**, **Investigation**, and **Introspection**, without requiring model fine-tuning.
 
 Kaige Li, Xiaochun Cao*, IEEE Senior Member
 
@@ -115,17 +95,6 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 This code is associated with a paper currently under review. To comply with the review process, the code will be made FULLY available once the paper is accepted.  :smiley:
 
 We appreciate your understanding and patience. Once the code is released, we will warmly welcome any feedback and suggestions. Please stay tuned for our updates!
-
-
-
-
-
-
-
-
-
-
-
 
 
 
