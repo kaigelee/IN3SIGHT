@@ -27,7 +27,8 @@ All experiments reported in the paper were conducted on a single NVIDIA A100 GPU
 ## 2. Repository Structure
 
 ```text
-.
+IN3SIGHT
+├── ...
 ├── inspection_reasoning.py        # Inspection stage: intrinsic judgment
 ├── investigation_reasoning.py     # Investigation stage: external evidence audit
 ├── introspection_reasoning.py     # Introspection stage: evidence-aware reconciliation
@@ -95,6 +96,7 @@ contains pre-retrieved external evidence for the NewsCLIPpings test set.
 This code is associated with a paper currently under review. To comply with the review process, the code will be made FULLY available once the paper is accepted.  :smiley:
 
 We appreciate your understanding and patience. Once the code is released, we will warmly welcome any feedback and suggestions. Please stay tuned for our updates!
+
 
 
 
